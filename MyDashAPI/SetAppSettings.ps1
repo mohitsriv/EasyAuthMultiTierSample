@@ -1,0 +1,2 @@
+$appSettings = Get-Content .\secrets.json | ConvertFrom-Json
+New-AzureRMResource -PropertyObject $appSettings -ResourceGroupName MyDashRG -ResourceType Microsoft.Web/sites/config -ResourceName MyDashAPI/appsettings -ApiVersion 2015-08-01 -Force
