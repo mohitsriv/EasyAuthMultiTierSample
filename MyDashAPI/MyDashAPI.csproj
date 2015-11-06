@@ -153,19 +153,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App\Scripts\adal-angular.js" />
-    <Content Include="App\Scripts\adal.js" />
-    <Content Include="App\Scripts\app.js" />
-    <Content Include="App\Scripts\homeCtrl.js" />
-    <Content Include="App\Scripts\indexCtrl.js" />
-    <Content Include="App\Scripts\todoListCtrl.js" />
-    <Content Include="App\Scripts\todoListSvc.js" />
-    <Content Include="App\Scripts\userDataCtrl.js" />
-    <Content Include="App\Views\Home.html" />
-    <Content Include="App\Views\TodoList.html" />
-    <Content Include="App\Views\UserData.html" />
     <Content Include="Global.asax" />
-    <Content Include="index.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
