@@ -1,6 +1,6 @@
 # Cross cutting items
 $balSite = "MyDashAPI"
-$dalSite = "NodeDataAPI"
+$dalSite = "MyDashDataAPI"
 $rg = "MyDashRG"
 
 # Populate empty ezAuthSettings
