@@ -11,6 +11,8 @@ To use this sample:
           "ida:Resource": "[fill in client id of target]"
         }
 
-2. Deploy each of the three projects in this sample to its own Azure App Service Web App.
+2. To have MyDashDataAPI restrict access to a specific service principal, specify AllowedClientPrincipalId in Web.config. 
 
-3. Run Set-AppSettings.ps1 in the root folder.  Note: Adjust the constants up top to match your deployment.  You will need Azure PowerShell 1.0 or greater.
+3. Deploy each of the three projects in this sample to its own Azure App Service Web App.
+
+4. Run Set-AppSettings.ps1 in the root folder.  Note: Adjust the constants up top to match your deployment.  You will need Azure PowerShell 1.0 or greater.
