@@ -11,8 +11,6 @@
     "clientSecret": null,
     "issuer": "[fill in]",
     "allowedAudiences": null,
-    "isAadAutoProvisioned": false,
-    "aadClientId": "[fill in]",
-    "openIdIssuer": "[fill in]"
+    "isAadAutoProvisioned": false
   }
 }
