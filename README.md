@@ -8,9 +8,9 @@ To use this sample:
 
         {
           "ida:Authority": "https://login.windows.net/[your tenant]",
-          "ida:ClientId": "[fill in client id of caller]",
-          "ida:ClientSecret": "[fill in client secret of caller]",
-          "ida:Resource": "[fill in client id of target]"
+          "ida:ClientId": "[fill in client id of caller (MyDashAPI)]",
+          "ida:ClientSecret": "[fill in client secret of caller (MyDashAPI)]",
+          "ida:Resource": "[fill in client id of target (MyDashDataAPI)]"
         }
 
 3. Adjust the parameters in MyDashFE\app\scripts\app.js to match the above (namely ClientId and Authority).
