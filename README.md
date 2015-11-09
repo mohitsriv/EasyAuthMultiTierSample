@@ -2,7 +2,7 @@ This sample demonstrates how the "Easy Auth" feature in Azure App Service can be
 
 To use this sample:
 
-1. Deploy each of the three projects in this sample to its own Azure App Service Web App.  Configure Easy Auth in the Web Apps settings (Azure portal) for MyDashAPI and MyDashDataAPI.
+1. Deploy each of the three projects in this sample to its own Azure App Service Web App.  [Optional - if you don't already have AAD applications] Configure Easy Auth in the Web Apps settings (Azure portal) for MyDashAPI and MyDashDataAPI.
 
 2. Create a secrets.json file in the MyDashAPI folder with the following structure:
 
