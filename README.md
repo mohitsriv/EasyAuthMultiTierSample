@@ -17,4 +17,4 @@ To use this sample:
 
 4. To have MyDashDataAPI restrict access to a specific service principal, specify AllowedClientPrincipalId in Web.config. 
 
-5. Run Set-AppSettings.ps1 in the root folder.  Note: Adjust the constants up top to match your deployment.  You will need Azure PowerShell 1.0 or greater.
+5. Run Set-AppSettings.ps1 in the root folder.  Note: Adjust the constants up top to match your deployment.  You will need Azure PowerShell 1.0.1 or greater.

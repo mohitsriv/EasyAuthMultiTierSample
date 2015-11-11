@@ -1,16 +1,12 @@
 {
-  "siteAuthEnabled": true,
-  "siteAuthSettings": {
-    "enabled": null,
-    "httpApiPrefixPath": null,
-    "unauthenticatedClientAction": null,
-    "tokenStoreEnabled": null,
-    "allowedExternalRedirectUrls": null,
-    "defaultProvider": null,
-    "clientId": "[fill in]",
-    "clientSecret": null,
-    "issuer": "[fill in]",
-    "allowedAudiences": null,
-    "isAadAutoProvisioned": false
-  }
+  "enabled": true,
+  "httpApiPrefixPath": null,
+  "unauthenticatedClientAction": null,
+  "tokenStoreEnabled": null,
+  "allowedExternalRedirectUrls": null,
+  "defaultProvider": null,
+  "clientId": "[fill in]",
+  "clientSecret": null,
+  "issuer": "[fill in]",
+  "allowedAudiences": null
 }
