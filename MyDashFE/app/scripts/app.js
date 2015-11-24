@@ -15,7 +15,7 @@ angular.module('todoApp', ['ngRoute','AdalAngular'])
     }).otherwise({ redirectTo: "/Home" });
 
     var endpoints = { 
-        "https://MyDashAPI.azure-api.net/": "3271c206-5b87-4547-aea8-04177743474b"
+        "https://MyDashAPI.azurewebsites.net/": "3271c206-5b87-4547-aea8-04177743474b"
     };
 
     adalProvider.init(

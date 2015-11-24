@@ -1,0 +1,7 @@
+{
+  "cors": {
+    "allowedOrigins": [
+          "https://localhost:44300"
+    ]
+  }
+}
